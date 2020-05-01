@@ -1,0 +1,4 @@
+jenkins is opensource CI/CD engine
+jenkins is web application by java
+it is reffered as schceduler of steroids
+default port is 8080
